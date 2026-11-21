@@ -1,0 +1,8 @@
+streamlit
+pandas
+feedparser
+requests
+certifi
+groq
+google-genai
+python-dotenv
